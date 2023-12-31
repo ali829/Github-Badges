@@ -1,11 +1,11 @@
 # GitHub Profile Badges
 
 ---
-- [Overview](#🖼️overview)
-- [In-Testing Achievements](#🛠️in-testing-achievements)
-- [Attainable Achievements](#🏆attainable-achievements)
-- [Unattainable Achievements](#🚫unattainable-achievements)
-- [Tiers](#📈tiers)
+- [Overview](#overview)
+- [In-Testing Achievements](#in-testing-achievements)
+- [Attainable Achievements](#attainable-achievements)
+- [Unattainable Achievements](#unattainable-achievements)
+- [Tiers](#tiers)
 ---
 
 ## 🖼️Overview :
